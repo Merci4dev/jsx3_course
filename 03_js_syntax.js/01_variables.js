@@ -49,7 +49,6 @@ let myVar6 = 'Maria';
 console.log(myVar6);
 
 
-
 var music = 'Rock';
 console.log('Start variable value:', music);
 
