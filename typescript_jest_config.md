@@ -6,13 +6,16 @@ git clone:
 
 ## Initialization and Configuration to implement jest for unit testing in  Typescript (commonJS, EMAscript)
 
+sudo npm i -g typescript
+tsc --version
+
 1. *Initializacion*
     - npm init -y
     - tsc --init
 
 
 2. *Required Dependencies*
-    - npm i @types/jest jest ts-jest typescript @types/babel__generator
+    - npm i @types/jest jest ts-jest typescript @types/babel__generator --save-dev
 
 
 3. *Create a "jest.config.js" file and pate inside*
@@ -43,7 +46,7 @@ git clone:
 6. *Run the test with*
     - npm test
     - npx jest  
-
+****
 
 Note: if you have some problem with the some hanging test run this command to clean the jest memory:
 
