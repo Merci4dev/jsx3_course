@@ -1,4 +1,4 @@
-# Jest Nore Configuration
+# Jest Note Configuration
 ===========================
 Jest es un popular marco de pruebas (testing framework) para JavaScript desarrollado por Facebook. Está diseñado principalmente para pruebas de unidades, pruebas de integración y pruebas de extremo a extremo en aplicaciones web y proyectos Node.js. 
 
@@ -12,6 +12,3 @@ Características:
 
 4 Mocking integrado: Jest proporciona herramientas integradas para crear mocks y spies, lo que facilita la simulación de dependencias y el control de comportamientos específicos durante las pruebas.
 
-
-
-1 El file index.test la swit implicita.
